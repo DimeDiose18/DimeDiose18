@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dimediose09@gmail.com**
 
-- 📄 Know about my experiences [I have worked on 3 academic projects, one with the Rick and Morty API, one with the Pokemon API and currently working on HealTech](I have worked on 3 academic projects, one with the Rick and Morty API, one with the Pokemon API and currently working on HealTech)
+- 📄 Know about my experiences I have worked on 3 academic projects, one with the Rick and Morty API, one with the Pokemon API and currently working on HealTech.
 
 - ⚡ Fun fact **I think I am very funny, creative, my desire to improve myself is bigger than my height.**
 
